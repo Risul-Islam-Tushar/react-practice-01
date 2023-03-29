@@ -1,0 +1,18 @@
+.headerSection{
+    height: 80px;
+    background-color:#1C2B35;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 90px;
+    align-items: center;
+}
+
+.headerSection a{
+    text-decoration: none;
+    color: aqua;
+    margin-left: 30px;
+}
+.headerSection a:hover{
+    color: blue;
+}
